@@ -13,6 +13,9 @@ public class Class01 {
         //Version3
         System.out.println("version 3 için kodlar");
 
+        //version6
+        System.out.println("version 6");
+
 
     }
 }
