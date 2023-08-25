@@ -13,6 +13,14 @@ public class Class01 {
         //Version3
         System.out.println("version 3 için kodlar");
 
+        //version4 kodları (hatalıkodlar, unutulan bazı özellikler)
+        System.out.println("hatalı kodlar");
+
+
+
+
+
+
 
     }
 }
